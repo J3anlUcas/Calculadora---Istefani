@@ -111,4 +111,4 @@ class Calculadora {
     console.log("RESULTADO:", this.valorMemoria);
   }
 }
-//module.exports = Calculadora; // exporta a classe Calculadora
+module.exports = Calculadora; // exporta a classe Calculadora
